@@ -28,6 +28,8 @@
   
   ![GitHub followers](https://img.shields.io/github/followers/Kalkidan407?style=social)
 ![GitHub repo count](https://img.shields.io/github/repo-count/Kalkidan407?style=flat-square)
+![GitHub Repos](https://img.shields.io/github/repos/Kalkidan407?style=flat-square)
+
 ![GitHub language](https://img.shields.io/github/languages/top/Kalkidan407?style=flat-square)
 
 </p>
