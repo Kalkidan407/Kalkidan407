@@ -18,15 +18,12 @@
 
 
 
-## 🚀 Current Project
- Currenylt working on  
+## 🚀 CurrentWorking on
 <a href="https://github.com/Kalkidan407/findMe">
 Lost & Found App
   </a>
 
-- **Lost & Found App** – building a full-stack solution for managing lost & found items with a clean UI and solid backend.
-
-
+###
 
 
 <div>
