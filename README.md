@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kal</h1>
 <p align="center">Curious developer exploring web & mobile development. Always learning, building, and growing.</p>
 
----
+
 
 ## 🌱 Currently Learning
 - Flutter & Dart
