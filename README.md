@@ -1,25 +1,42 @@
-# Hey there 👋 Kal here!
-
-I'm someone who’s always curious and loves exploring new things.  
-Currently diving into **mobile development with Flutter**, but my goal is bigger than just learning one tool or language — I want to become a **real developer** with broad, adaptable skills.
-
-I don’t want to be limited by a specific technology.  
-Instead, I want to **learn as much as I can**, try new things, and build the kind of flexibility that allows me to create anything — whether it's web, mobile, or ....
+<h1 align="center">Hey there 👋, I'm Kal</h1>
+<p align="center">Curious developer exploring web & mobile development. Always learning, building, and growing.</p>
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Flutter & Dart
-- Spring Boot 
-  
+- Spring Boot
+
+## 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart,flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
+</p>
 
 ---
 
-### 🎯 Why I'm Here
-To learn, to grow, to build — and to never stop exploring.
+## 🚀 Current Project
+- **Lost & Found App** – building a full-stack solution for managing lost & found items with a clean UI and solid backend.
 
 ---
 
-### 🚀 Let's Connect
-Feel free to check out my projects and follow along on this journey.  
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kalcal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalcal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=kalcal&theme=dark" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalcal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:kalcal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://leetcode.com/kalcal"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+</p>
