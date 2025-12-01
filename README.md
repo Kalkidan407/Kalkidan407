@@ -16,21 +16,15 @@
   
 </p>
 
+<br><br><br>
+
+### 🚀 Currently Working on: [Lost & Found App](https://github.com/Kalkidan407/findMe)
 
 
-### 🚀 CurrentWorking on
- ###  <a href="https://github.com/Kalkidan407/findMe">
-  ###   Lost & Found App
- ### </a>
-  
+
+<br><br><br>
 
 
-###
-
-
-<div>
-
-<div/>
 <p align="center">
   
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=dark)
