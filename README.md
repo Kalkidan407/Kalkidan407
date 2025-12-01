@@ -25,8 +25,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalkidan407&layout=compact&theme=radical&cache_seconds=86400" />
+  
+  ![GitHub followers](https://img.shields.io/github/followers/Kalkidan407?style=social)
+![GitHub repo count](https://img.shields.io/github/repo-count/Kalkidan407?style=flat-square)
+![GitHub language](https://img.shields.io/github/languages/top/Kalkidan407?style=flat-square)
+
 </p>
 
 
