@@ -32,15 +32,12 @@ Lost & Found App
 <p align="center">
   
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=dark)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=dark&hide_border=true)
+
 
 
 
 </p>
 
-## 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=dark&hide_border=true)
 
 
 
