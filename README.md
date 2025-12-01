@@ -8,7 +8,7 @@
 - Spring Boot
 
 ## 🛠️ Languages & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart" />
   <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
 </p>
