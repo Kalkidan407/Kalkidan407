@@ -9,7 +9,8 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart,flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
 </p>
 
 ---
