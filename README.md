@@ -9,14 +9,16 @@
 - Spring Boot
 
 ## 🛠️ Languages & Tools
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart" />
-  <br/>
+  
+  <br>
   <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
   
 </p>
 
-<br><br>
+<br>
 
 ### 🚀 Currently Working on: [Lost & Found App](https://github.com/Kalkidan407/findMe)
 
