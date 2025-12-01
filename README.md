@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kal</h1>
 <p align="center">Curious developer exploring web & mobile development. Always learning, building, and growing.</p>
 
+<br/>
 
 
 ## 🌱 Currently Learning
@@ -10,6 +11,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,ts,dart" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=flutter,spring,postgres,mysql,firebase,supabase,nextjs,tailwind,mongodb" />
 </p>
 
