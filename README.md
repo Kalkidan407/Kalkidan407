@@ -16,13 +16,13 @@
   
 </p>
 
-<br><br><br>
+<br><br>
 
 ### 🚀 Currently Working on: [Lost & Found App](https://github.com/Kalkidan407/findMe)
 
 
 
-<br><br><br>
+<br>
 
 
 <p align="center">
