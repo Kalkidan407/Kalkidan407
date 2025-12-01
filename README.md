@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalkidan407&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalkidan407&layout=compact&theme=tokyonight&hide_border=true&&cache_seconds=86400" />
 </p>
 
 ---
@@ -34,9 +34,4 @@
 
 ---
 
-## 🌍 Let's Connect
-<p align="center">
-  
-  <a href="mailto:kalkidankelemewerk120@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://leetcode.com/kalcal"><img src="https://leetcode.com/u/Kalkidan-Kelemework/" /></a>
-</p>
+
