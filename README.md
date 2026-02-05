@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kal</h1>
 
 <p align="center">
-Frontend Developer focused on <b>Next.js and TypeScript</b>, with experience integrating 
+Junior Fullstack  Developer focused on <b>Next.js and TypeScript</b>, with experience integrating 
 <b>RESTful APIs</b> and building real-world web applications. 
 Also exploring mobile development with Flutter.
 </p>
