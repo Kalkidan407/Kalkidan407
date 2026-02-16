@@ -19,9 +19,9 @@ Also exploring mobile development with Flutter.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,dart" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,postgres,mysql,firebase,supabase,spring" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter," />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,spring" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,firebase,supabase" />
 </p>
 
 <br/>
