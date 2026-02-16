@@ -9,10 +9,12 @@ Also exploring mobile development with Flutter.
 <br/>
 
 ## 🌱 Currently Learning
+```
 - Spring Boot (RESTful APIs & backend integration)
 - Flutter & Dart (mobile development)
-
 ```
+
+
 ## 🛠️ Languages & Tools  
 <b>Frontend & API Integration Focus</b>
 
@@ -23,13 +25,14 @@ Also exploring mobile development with Flutter.
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,firebase,supabase" />
 </p>
-```
+
 <br/>
 
+```
 ### 🚀 Currently Working on
 **Lost & Found App**  
 Next.js frontend integrating Spring Boot REST APIs (Swagger/OpenAPI)
-
+```
 <br/>
 
 <p align="center">
