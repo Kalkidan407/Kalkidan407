@@ -16,10 +16,12 @@ Also exploring mobile development with Flutter.
 ## 🛠️ Languages & Tools  
 <b>Frontend & API Integration Focus</b>
 
-<p align="">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,dart" />
   <br>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,postgres,mysql,firebase,supabase,spring" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,spring" />
 </p>
 
 <br/>
