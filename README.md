@@ -9,13 +9,14 @@ Also exploring mobile development with Flutter.
 <br/>
 
 ## 🌱 Currently Learning
-- Flutter & Dart (mobile development)
 - Spring Boot (RESTful APIs & backend integration)
+- Flutter & Dart (mobile development)
+
 
 ## 🛠️ Languages & Tools  
 <b>Frontend & API Integration Focus</b>
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=ts,js,java,dart" />
   <br>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,postgres,mysql,firebase,supabase,spring" />
