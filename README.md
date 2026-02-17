@@ -1,95 +1,106 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Kalkidan</h1>
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Kal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Frontend+Engineer;Backend+Developer;RESTful+API+Builder;Spring+Boot+%7C+Next.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+Engineer;Backend+API+Architect;Spring+Boot+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-RESTful%20APIs-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Next.js-111827?style=for-the-badge"/>
 </p>
 
 ---
 
-##  About Me
+## 🧠 About Me
 
- Junior **Fullstack Developer** passionate about building scalable and modern web applications.
+I’m a **Full‑Stack Developer** focused on building scalable, production‑ready web applications.
 
-I specialize in:
+💡 I enjoy designing clean system architecture, developing robust RESTful APIs,  
+and creating modern, responsive frontends with excellent UX.
 
--  **Frontend Development** (Next.js, React, TypeScript)
--  **Backend Development** (Spring Boot, RESTful APIs)
--  Database design & API integration
--  Exploring Mobile Development with Flutter
-
-I enjoy turning ideas into real, production-ready applications.
+### 🔥 Core Strengths
+- Backend Development with **Spring Boot**
+- RESTful API Design & Integration
+- Frontend Engineering with **Next.js & TypeScript**
+- Database Design & Optimization
+- Clean Architecture & Scalable Systems
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,dart" />
 </p>
 
-###  Frontend
+### ⚛️ Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
-###  Backend & APIs
+### 🔥 Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,java" />
 </p>
 
-### Databases & Cloud
+### 🗄 Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Current Project
 
-- Advanced Spring Boot Architecture
-- Secure RESTful API Design (JWT, Authentication)
-- Flutter & Dart (Mobile Apps)
-- Clean Architecture & Scalable Systems
+### 🔎 Lost & Found Platform
 
----
+A fullstack web application built with:
 
-##  Current Project
+- 🖥 **Next.js Frontend**
+- ☕ **Spring Boot REST API**
+- 📄 Swagger / OpenAPI Documentation
+- 🗄 PostgreSQL Database
+- 🔐 Planned JWT Authentication
 
-### Lost & Found Platform
-
--  Next.js Frontend
--  Spring Boot REST API ☕
--  Swagger / OpenAPI Documentation
--  PostgreSQL Database
-
-Building a real-world fullstack application focused on clean architecture and scalable design.
+Focused on clean API contracts, scalable structure, and real‑world production practices.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Improving
+
+- Advanced Spring Security (JWT & Authentication)
+- Scalable Backend Architecture
+- Performance Optimization
+- Mobile Development with Flutter
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/kalkidan-kelemework-150372397/" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Building. Learning. Improving. Every day.
+  <b>Building. Learning. Scaling. 🚀</b>
 </p>
