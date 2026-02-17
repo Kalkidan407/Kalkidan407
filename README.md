@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+Engineer;Backend+RESTFULL+ API+Architect;+%7C++%7C+TypeScript;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+Engineer;Backend+RESTFULL+API+Architect" />
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a Junior **Full‑Stack Developer** focused on building scalable, production‑ready web applications.
 
 💡 I enjoy designing clean system architecture, developing robust RESTful APIs,  
 and creating modern, responsive frontends with excellent UX.
 
-### 🔥 Core Strengths
+###  Core Strengths
 - Backend Development with **Spring Boot**
 - RESTful API Design & Integration
 - Frontend Engineering with **Next.js & TypeScript**
