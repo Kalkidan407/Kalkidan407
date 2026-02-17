@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+Engineer;Backend+API+Architect;Spring+Boot+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications+Learning+Mobile+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+Engineer;Backend+RESTFULL API+Architect;+%7C++%7C+TypeScript;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
