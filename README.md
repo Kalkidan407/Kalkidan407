@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I’m a **Full‑Stack Developer** focused on building scalable, production‑ready web applications.
+I’m a Junior **Full‑Stack Developer** focused on building scalable, production‑ready web applications.
 
 💡 I enjoy designing clean system architecture, developing robust RESTful APIs,  
 and creating modern, responsive frontends with excellent UX.
