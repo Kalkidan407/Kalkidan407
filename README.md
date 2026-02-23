@@ -1,18 +1,4 @@
-
-
-
-
-
----
-
-## 🌱 Currently Improving
-
-- Advanced Spring Security (JWT & Authentication)
-- Scalable Backend Architecture
-- Performance Optimization
-- Mobile Development with Flutter
-
-<h1 align="center">Hi 👋 I'm Kal</h1>
+<h1 align="center">Hi 👋 I'm Kalkidan</h1>
 
 <p align="center">
 Full-Stack Developer • Spring Boot • Next.js
