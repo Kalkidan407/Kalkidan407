@@ -62,7 +62,7 @@ Focused on clean architecture and production-ready structure.
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/kalkidan-kelemework-150372397/)
+<p align="center"> <a href="https://www.linkedin.com/in/kalkidan-kelemework-150372397/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
 
 <p align="center">
