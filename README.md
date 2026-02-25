@@ -8,7 +8,6 @@ Full-Stack Developer • Spring Boot • Next.js
 ##  About Me
 
 Full-Stack Developer focused on building scalable web applications and clean RESTful APIs.
-
 I enjoy designing structured backend systems and creating modern, responsive frontends.
 
 
