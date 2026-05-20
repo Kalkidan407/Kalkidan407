@@ -1,53 +1,46 @@
-<h1 align="center">Hi 👋 I'm Kalkidan</h1>
+Hi, I'm Kalkidan Kelemework 👋
+Backend Developer focused on building scalable REST APIs and production-ready systems with Spring Boot and Java.
+I enjoy designing clean backend architectures and occasionally cross the line into full-stack territory.
+🔍 Actively looking for a junior backend developer role
 
-<p align="center">
-Full-Stack Developer • Spring Boot • Next.js
-</p>
+🛠️ Tech Stack
+Backend (primary)
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Frontend (secondary)
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & other
+Show Image
+Show Image
+Show Image
+Show Image
 
+🚀 Featured Project — Lost & Found Platform
+A production-grade full-stack Lost & Found web application.
+LayerTechBackendSpring Boot 3, Spring Security, JWT, JPA, PostgreSQLFrontendNext.js, TypeScript, Tailwind CSS, shadcn/ui, Gemini AIDevOpsDocker, Render (backend), Vercel (frontend)DocsSwagger / OpenAPI
+🔗 Backend repo · Frontend repo · Live API docs · Live frontend
+What it does: Users can report lost or found items, browse listings, and authenticate securely with JWT. Built with a clean layered architecture (controller → service → repository → dto) and deployed end-to-end.
 
-##  About Me
+🌱 Currently working on
 
-Full-Stack Developer focused on building scalable web applications and clean RESTful APIs.
-I enjoy designing structured backend systems and creating modern, responsive frontends.
-
-
-
-##  Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<br/>
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-## 🚀 Featured Project
-
-### Lost & Found Platform
-
-Full-stack web application built with:
-- Next.js frontend
-- Spring Boot REST API
-- PostgreSQL database
-- OpenAPI documentation
-- JWT authentication (in progress)
-
-Focused on clean architecture and production-ready structure.
+Adding unit & integration tests to the Lost & Found backend
+Deepening knowledge of system design & scalable backend architecture
+Practicing DSA on LeetCode
 
 
-## 🌱 Currently Improving
+📬 Let's connect
+Show Image
+Show Image
+Show Image
 
-- Advanced Spring Security
-- Scalable backend architecture
-- Performance optimization
+Building. Learning. Shipping.
 
 ##  GitHub Analytics
 
@@ -59,11 +52,4 @@ Focused on clean architecture and production-ready structure.
   <img src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🤝 Connect
 
-<p align="center"> <a href="https://www.linkedin.com/in/kalkidan-kelemework-150372397/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
-
-
-<p align="center">
-Building. Learning. Scaling.
-</p>
