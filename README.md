@@ -81,14 +81,3 @@ I'm a software developer passionate about backend engineering. I love designing 
 
 
 
-##  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalkidan407&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalkidan407&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
