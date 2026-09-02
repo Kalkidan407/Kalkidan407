@@ -32,31 +32,7 @@ I'm a software developer passionate about backend engineering. I love designing 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
----
 
-## 🚀 Featured Project — Lost & Found Platform
-
-> A full-stack Lost & Found platform with AI-powered ownership verification
-
-| | |
-|---|---|
-| **Backend** | Spring Boot 3 · Spring Security · JWT · JPA · PostgreSQL · Docker |
-| **Frontend** | Next.js · TypeScript · Tailwind CSS · shadcn/ui |
-| **AI** | Spring AI · Gemini — generates ownership verification questions from item photos |
-| **Deploy** | Render (API) · Vercel (Frontend) |
-
-🔗 [Backend](https://github.com/Kalkidan407/lost-FoundBackEnd) · [Frontend](https://github.com/Kalkidan407/lost-found-frontend) · [Live API Docs](https://findme-1-e6k5.onrender.com/swagger-ui/index.html)
-
----
-
-## 🌱 Currently working on
-
-- 🧪 Adding unit & integration tests to Lost & Found backend
-- 🤖 Spring AI ownership verification quiz feature
-- 📐 System design & scalable architecture
-- 💡 DSA on [LeetCode](https://leetcode.com/u/Kalkidan-Kelemework/)
-
----
 
 ## 📊 GitHub Analytics
 
